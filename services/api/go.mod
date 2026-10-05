@@ -7,8 +7,8 @@ require (
 	github.com/gorilla/websocket v1.5.3
 	github.com/jackc/pgx/v5 v5.11.0
 	github.com/joho/godotenv v1.5.1
-	github.com/sashabaranov/go-openai v1.42.0
-	google.golang.org/genai v1.71.0
+	github.com/sashabaranov/go-openai v1.43.0
+	google.golang.org/genai v1.72.0
 )
 
 require (
